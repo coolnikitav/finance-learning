@@ -3,4 +3,4 @@
 
 ![image](https://github.com/coolnikitav/finance-learning/assets/30304422/b7e74ece-6bc6-4852-8fe5-e5926a72655e)
 
-m - number of coupon payments in a year
+![image](https://github.com/coolnikitav/finance-learning/assets/30304422/3d66e458-3392-4a10-ab0e-f3b91f83d1cd)
